@@ -1,0 +1,3 @@
+INSERT INTO course(title,description,link) values('Vue.js','Front end framework','https://vueschool.io/courses/vuejs-fundamentals')
+INSERT INTO course(title,description,link) values('Getting started with springBoot 2','API Framework/tool','https://www.udemy.com/course/spring-boot-getting-started/')
+INSERT INTO course(title,description,link) values('Cucumber Automation Frame work','BDD Automation Testing','https://cucumber.io/school/')
